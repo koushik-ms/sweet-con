@@ -1,6 +1,6 @@
 {
   "name": "Sweet Con - Contacts Done Right",
-  "short_name": "Sweet_Con",
+  "short_name": "sweet-con",
   "scope": "./",
   "start_url": "index.html",
   "gcm_sender_id": "103953800507",
