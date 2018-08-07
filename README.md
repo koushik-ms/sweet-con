@@ -4,6 +4,19 @@ This is an attempt at creating an app for storing contact information using fire
 
 Primary purpose in taking up the project is to learn the use of firebase components/ features and advanced HTML and Javascript (nodejs, npm, ...).
 
+See live-preview at https://sweetcon-de526.firebaseapp.com/. 
+
+# Install as a smart-phone app (Android, iOS)
+
+This can be installed locally on your smart-phone. See the short video below correspoding to your OS.
+
+## Android
+[![How to Add to Home Screen on Android](https://img.youtube.com/vi/6YbPaINKnYA/0.jpg)](https://www.youtube.com/watch?v=6YbPaINKnYA)
+
+## iOS
+[![How to Add to Home Screen on iOS](https://img.youtube.com/vi/S7TIVG5F2xw/0.jpg)](https://www.youtube.com/watch?v=S7TIVG5F2xw)
+
+
 ## Features / Requirements
 
 *Done*
