@@ -113,10 +113,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           placeholder="Address"
           bind-value="{{body}}">
       </iron-autogrow-textarea>
-      <iron-autogrow-textarea
-          placeholder="Email"
-          bind-value="{{email}}">
-      </iron-autogrow-textarea>
+      <iron-input bind-value="{{email}}">
+        <input is="iron-input"
+            type="email"
+            placeholder="email address"
+            bind-value="{{email}}">
+        </input>
+      </iron-input>
     </template>
     <template is="dom-if" if="[[!editable]]">
       <h1 class$="[[emptyClass(title)]]">[[title]]</h1>
