@@ -1,32 +1,35 @@
 {
   "name": "sweet-con",
   "authors": [
-    "Sweet and Rich Contact App"
+    "Koushik Meenakshisundaram <koushik.ms@gmail.com>"
   ],
-  "version": "0.9.0",
+  "version": "0.91.0",
   "description": "An offline-ready app for storing contacts.",
-  "license": "http://polymer.github.io/LICENSE.txt",
+  "main": "index.html",
+  "keywords": [
+    "progressive-web-app",
+    "web-app"
+  ],
+  "license": "MIT",
   "private": true,
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
-    "polymer": "Polymer/polymer#1.9 - 2",
-    "platinum-sw": "polymerelements/platinum-sw#^1.3.0",
-    "app-storage": "polymerelements/app-storage#^0.9.0",
-    "app-pouchdb": "polymerelements/app-pouchdb#^0.9.0",
-    "polymerfire": "firebase/polymerfire#~0.9.0",
-    "paper-styles": "polymerelements/paper-styles#^1.0.0",
-    "iron-icons": "polymerelements/iron-icons#^1.0.0",
-    "iron-icon": "polymerelements/iron-icon#^1.0.0",
-    "font-roboto": "polymerelements/font-roboto#^1.0.0",
-    "iron-flex-layout": "polymerelements/iron-flex-layout#^1.0.0",
-    "iron-input": "polymerelements/iron-input#^1.0.0",
-    "iron-autogrow-textarea": "polymerelements/iron-autogrow-textarea#^1.0.0",
-    "paper-button": "polymerelements/paper-button#^1.0.0",
-    "paper-fab": "polymerelements/paper-fab#^1.0.0",
-    "paper-icon-button": "polymerelements/paper-icon-button#^1.0.0",
-    "web-animations-js": "web-animations/web-animations-js#^2.2.1"
-  },
-  "resolutions": {
-    "app-storage": "1 - 2",
-    "webcomponentsjs": "^v1.1.0"
+    "web-animations-js": "^2.3.1",
+    "platinum-sw": "^2.1.0",
+    "polymerfire": "firebase/polymerfire#^2.2.1",
+    "app-storage": "^2.1.2",
+    "paper-fab": "^2.1.0",
+    "paper-button": "^2.1.3",
+    "iron-icons": "^2.1.1",
+    "iron-input": "^2.1.3",
+    "iron-autogrow-textarea": "^2.2.0",
+    "paper-icon-button": "^2.2.0"
   }
 }
