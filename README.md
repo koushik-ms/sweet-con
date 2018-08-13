@@ -35,3 +35,7 @@ This can be installed locally on your smart-phone. See the short video below cor
 2. Enable email keyboard for email field.
 3. Add facility to add contact image. take photo via mediacapture - [what web can do](https://whatwebcando.today).
 4. Sync contact with local phone contact. Maybe useful to map... at least avoid double store of phone number. Perhaps allow user to "migrate" phone contact into app?!?
+
+## Overview
+See [here](https://gitpitch.com/koushik-ms/sweet-con/master)
+
