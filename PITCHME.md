@@ -1,12 +1,11 @@
 # Sweet-Con(tacts)
 
-### Manage contact information across **devices**
-## A Journey in Cross-platform App Development
+### A Journey in Cross-platform App Development
 ---
 
 ## Features
 
-- Sign-in with google
+- Sign-in with google (, facebook, ...)
 - Save data locally and on the cloud (synchronized automatically)
 - Secure data store
 - Offline access
@@ -15,7 +14,8 @@
 
 ## Architecture
 
-- Javascript Front-end (Using webcomponents)
+- Single code-base for all platforms
+- Javascript Front-end
 - Firebase Application Backend
 - Progressive web-app 
 - Webcomponents for styling and app infrastructure
@@ -27,5 +27,5 @@
 - Add to Home Screen on any device
 - Automatic push updates
 - Push notifications and analytics
----
+
 
